@@ -29,4 +29,5 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 
 <!-- <h2><em>Assets utilizados</em></h2> -->
 
+<br>
 (layout do repositório baseado no de <a href="https://github.com/lnbt07/Java-projects#projetos-de-web">Carolina Bartoli</a>)
