@@ -1,5 +1,5 @@
 # Unity-Projetos
-Criei esse repositório para organizar todos os repositórios que contém projetos de jogos feitos na Unity. Se quiser encontrar algum específico, basta procurar por sua categoria e clicar nele :)
+Criei esse repositório para organizar todos os repositórios que contém projetos de jogos/tutoriais feitos na Unity. Se quiser encontrar algum específico, basta procurar por sua categoria e clicar nele :)
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
