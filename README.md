@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/tutorial-coletar-e-salvar-moedas-projeto-unity">Como Coletar moedas e Salvar a quantidade</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-sair-do-jogo-projeto-unity">Como sair/fechar o jogo</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-atirar-e-deixar-marca-projeto-unity">Como atirar e deixar marca na parede</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-pausar-jogo-projeto-unity">Como pausar e despausar o jogo</a></li>
