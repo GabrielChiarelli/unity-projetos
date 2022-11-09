@@ -26,6 +26,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 
 <h2><em>Cursos da Udemy</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/curso-udemy-jogo-de-plataforma-2d-projeto-unity">Crie um jogo de Plataforma 2D na Unity</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-udemy-jogo-fps-retro-projeto-unity">Aprenda a criar um jogo FPS Retrô na Unity e C#</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-udemy-jogo-top-down-shooter-2d-projeto-unity">Crie um jogo Top-Down Shooter 2D na Unity e C#</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-udemy-jogo-iniciante-2d-projeto-unity">Aprenda a desenvolver um jogo de iniciante na Unity e C#</a></li>
