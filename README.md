@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/tutorial-inimigo-que-para-quando-visto">Inimigo que para quando visto</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-inimigo-2d-bloco-que-cai">Inimigo que cai quando o jogador se aproxima (Mecânicas do Super Mario Bros)</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-movimentacao-2d-do-inimigo-entre-pontos-projeto-unity">Inimigo que se move entre 2 pontos</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-movimentacao-2d-simples-projeto-unity">Movimentação 2D Simples</a></li>
