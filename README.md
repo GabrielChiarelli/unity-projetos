@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/tutorial-controle-de-carro-arcade-rigidbody-3d-projeto-unity">Controle de Carro Arcade (Rigidbody)</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-casco-que-rebate-2d">Casco que rebate na colisão (Mecânicas do Super Mario Bros)</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-inimigo-que-para-quando-visto">Inimigo que para quando visto (Mecânicas do Super Mario Bros)</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-inimigo-2d-bloco-que-cai">Inimigo que cai quando o jogador se aproxima (Mecânicas do Super Mario Bros)</a></li>
