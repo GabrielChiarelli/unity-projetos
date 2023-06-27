@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/tutorial-missil-teleguiado-3d-projeto-unity">Míssil Teleguiado (3D)</li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-movimento-rapido-na-diagonal-projeto-unity/tree/main">Solução para o Movimentao mais Rápido na Diagonal</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-controle-de-carro-arcade-rigidbody-3d-projeto-unity">Controle de Carro Arcade (Rigidbody)</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-casco-que-rebate-2d">Casco que rebate na colisão (Mecânicas do Super Mario Bros)</a></li>
