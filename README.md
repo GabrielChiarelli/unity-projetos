@@ -25,6 +25,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 
 <h2><em>Cursos do YouTube</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/curso-jogo-mini-golf-2d-projeto-unity">Crie um Jogo de Mini-Golf 2D na Unity e C#</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-jogo-da-bolinha-3d-projeto-unity">Aprenda a criar um jogo 3D na Unity e C#</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-jogo-arkanoid-2d-projeto-unity">Crie o jogo Arkanoid 2D na Unity e C#</a></li>
   <li><a href="https://github.com/GabrielChiarelli/curso-jogo-pong-2d-projeto-unity">Crie o jogo PONG 2D na Unity e C#</a></li>
