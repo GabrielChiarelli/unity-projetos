@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/tutorial-mantendo-a-musica-entre-as-fases-projeto-unity">Mantendo a Música ao passar de fase</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-mostrar-fps-na-tela-projeto-unity/tree/main">Mostrando o FPS na Tela</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-missil-teleguiado-3d-projeto-unity">Míssil Teleguiado (3D)</li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-movimento-rapido-na-diagonal-projeto-unity/tree/main">Solução para o Movimentao mais Rápido na Diagonal</a></li>
