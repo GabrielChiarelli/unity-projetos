@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/mecanica-de-pesca-2d-tutorial-projeto-unity" target="_blank">Mecânica de Pesca</a></li>
   <li><a href="https://github.com/GabrielChiarelli/porta-automatica-tutorial-projeto-unity" target="_blank">Porta Automática</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-mantendo-a-musica-entre-as-fases-projeto-unity">Mantendo a Música ao passar de fase</a></li>
   <li><a href="https://github.com/GabrielChiarelli/tutorial-mostrar-fps-na-tela-projeto-unity/tree/main">Mostrando o FPS na Tela</a></li>
