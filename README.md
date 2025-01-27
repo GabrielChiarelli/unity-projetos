@@ -3,6 +3,7 @@ Criei esse repositório para organizar todos os repositórios que contém projet
 <br>
 <h2><em>Tutoriais</em></h2>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/atrair-item-para-jogador-tutorial-unity" target="_blank">Atrair item até o Jogador</a></li>
   <li><a href="https://github.com/GabrielChiarelli/espelhar-jogador-com-item-tutorial-projeto-unity" target="_blank">Espelhar Jogador com Item</a></li>
   <li><a href="https://github.com/GabrielChiarelli/barra-de-carregamento-projeto-unity" target="_blank">Tela de Carregamento com Barra de Progresso</a></li>
   <li><a href="https://github.com/GabrielChiarelli/slider-circular-projeto-unity" target="_blank">Slider Circular</a></li>
